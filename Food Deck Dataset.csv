@@ -1,0 +1,201 @@
+RestaurantName,City,orderID,CustomerID,cookiesShipped,revenue,cost,profit,orderDate,shipDate,dateDifference,orderStatus
+Pizza Palace,New York,101,1051,5,78.54,45.28,23.72,8/21/2023,8/19/2023,-2,Shipped
+Pasta Place,Chicago,102,1092,68,65.64,28.03,8.76,8/4/2023,8/18/2023,14,Shipped
+Pizza Palace,New York,103,1014,6,19.1,28.95,10.47,8/1/2023,8/31/2023,30,Shipped
+Sushi World,San Francisco,104,1071,96,17.57,9.82,25.92,8/24/2023,9/1/2023,8,Shipped
+Burger Town,Los Angeles,105,1060,94,73.09,25.13,22.11,8/9/2023,8/22/2023,13,Shipped
+Taco Land,Houston,106,1020,47,16.55,28.97,45.91,8/8/2023,8/8/2023,0,Shipped
+Sushi World,San Francisco,107,1082,99,83.97,15.91,19.39,8/8/2023,8/27/2023,19,Pending
+Pizza Palace,New York,108,1086,55,73.56,17.12,29.87,8/5/2023,8/23/2023,18,Shipped
+Taco Land,Houston,109,1074,40,17.32,21.98,32.35,8/24/2023,8/6/2023,-18,Shipped
+Pizza Palace,New York,110,1074,52,17.64,5.9,2.63,8/4/2023,8/15/2023,11,Shipped
+Pizza Palace,New York,111,1087,16,98.8,19.49,33.85,8/22/2023,8/2/2023,-20,Pending
+Burger Town,Los Angeles,112,1099,13,43.68,14.52,10.55,8/24/2023,8/15/2023,-9,Shipped
+Taco Land,Houston,113,1023,30,43.36,19.74,48.13,8/18/2023,8/9/2023,-9,Shipped
+Taco Land,Houston,114,1002,19,83.15,10.39,9.14,8/3/2023,8/13/2023,10,Pending
+Burger Town,Los Angeles,115,1021,17,95.25,45.07,21.9,8/19/2023,8/4/2023,-15,Shipped
+Sushi World,San Francisco,116,1052,63,98.74,31.71,6.1,8/14/2023,8/28/2023,14,Shipped
+Pizza Palace,New York,117,1001,19,77.8,35.56,49.85,8/2/2023,8/28/2023,26,Shipped
+Pasta Place,Chicago,118,1087,92,43.86,40.51,26.11,8/1/2023,8/30/2023,29,Pending
+Pizza Palace,New York,119,1029,58,17.52,27.43,30.58,8/3/2023,8/27/2023,24,Shipped
+Pizza Palace,New York,120,1037,55,79.94,8.91,5.22,8/7/2023,8/9/2023,2,Pending
+Sushi World,San Francisco,121,1001,90,60.26,29.17,38,8/8/2023,8/20/2023,12,Shipped
+Pizza Palace,New York,122,1063,90,48.18,31.41,12.08,8/17/2023,8/14/2023,-3,Cancelled
+Burger Town,Los Angeles,123,1059,62,91.57,38.54,45.11,8/20/2023,9/2/2023,13,Pending
+Burger Town,Los Angeles,124,1020,23,20.01,24.42,11.85,8/1/2023,8/16/2023,15,Cancelled
+Taco Land,Houston,125,1032,9,54.34,10.74,11.15,8/18/2023,8/20/2023,2,Shipped
+Pasta Place,Chicago,126,1075,12,11.02,17.77,3.75,8/7/2023,8/26/2023,19,Pending
+Pizza Palace,New York,127,1057,1,52.18,21.34,24.66,8/23/2023,8/16/2023,-7,Shipped
+Pizza Palace,New York,128,1021,58,15.07,34.07,29.11,8/21/2023,8/20/2023,-1,Shipped
+Sushi World,San Francisco,129,1088,1,20.69,30.69,5.15,8/23/2023,8/16/2023,-7,Shipped
+Burger Town,Los Angeles,130,1048,34,20.58,21.02,39.23,8/18/2023,8/10/2023,-8,Pending
+Pasta Place,Chicago,131,1090,96,68.43,49.39,23.76,8/14/2023,8/6/2023,-8,Cancelled
+Taco Land,Houston,132,1058,48,77.14,32.26,27.17,8/8/2023,8/6/2023,-2,Pending
+Burger Town,Los Angeles,133,1041,89,62.5,15.68,23.16,8/15/2023,8/20/2023,5,Shipped
+Taco Land,Houston,134,1091,1,96.6,9.58,21.24,8/19/2023,8/21/2023,2,Shipped
+Sushi World,San Francisco,135,1059,16,43.74,11.88,28.86,8/9/2023,8/2/2023,-7,Pending
+Sushi World,San Francisco,136,1079,61,35.71,16.07,9.45,8/26/2023,8/24/2023,-2,Shipped
+Pizza Palace,New York,137,1014,64,88.17,12.23,10.73,8/28/2023,8/9/2023,-19,Shipped
+Pasta Place,Chicago,138,1061,63,30.12,13.4,43.37,8/1/2023,8/5/2023,4,Shipped
+Taco Land,Houston,139,1061,69,96.69,17.83,47.41,8/25/2023,8/8/2023,-17,Shipped
+Burger Town,Los Angeles,140,1046,22,11.09,12.8,19.92,8/26/2023,8/11/2023,-15,Shipped
+Sushi World,San Francisco,141,1061,93,97.29,45.35,15,8/6/2023,8/26/2023,20,Shipped
+Pizza Palace,New York,142,1050,67,13.88,8.61,32.91,8/23/2023,8/12/2023,-11,Shipped
+Pizza Palace,New York,143,1054,76,90.2,28.6,21.62,8/14/2023,8/10/2023,-4,Shipped
+Taco Land,Houston,144,1063,26,57.49,23.47,3.22,8/11/2023,8/23/2023,12,Cancelled
+Sushi World,San Francisco,145,1002,16,99.37,49.21,9.5,8/9/2023,8/12/2023,3,Shipped
+Pasta Place,Chicago,146,1050,51,16.64,10.04,36.37,8/5/2023,8/30/2023,25,Shipped
+Sushi World,San Francisco,147,1006,86,59.85,22.9,33.63,8/7/2023,8/8/2023,1,Shipped
+Taco Land,Houston,148,1020,57,97.24,48.63,3.3,8/25/2023,8/8/2023,-17,Shipped
+Taco Land,Houston,149,1072,29,57.08,43.95,12.65,8/11/2023,8/16/2023,5,Cancelled
+Sushi World,San Francisco,150,1038,78,66.65,41.77,13.09,8/4/2023,8/18/2023,14,Pending
+Taco Land,Houston,151,1017,92,72.62,16.61,34.25,8/3/2023,8/29/2023,26,Shipped
+Sushi World,San Francisco,152,1003,69,50.91,12.69,2.95,8/13/2023,8/23/2023,10,Shipped
+Burger Town,Los Angeles,153,1088,47,66.48,35.09,7,8/4/2023,8/6/2023,2,Pending
+Sushi World,San Francisco,154,1059,94,62.59,46.82,40.4,8/12/2023,8/27/2023,15,Cancelled
+Sushi World,San Francisco,155,1013,62,91.1,30.05,10.57,8/28/2023,8/27/2023,-1,Shipped
+Taco Land,Houston,156,1008,69,14.09,30.72,33.33,8/12/2023,8/10/2023,-2,Shipped
+Taco Land,Houston,157,1089,76,35.29,17.6,13.43,8/20/2023,8/12/2023,-8,Shipped
+Pizza Palace,New York,158,1052,16,95.54,39.63,6.77,8/9/2023,8/17/2023,8,Cancelled
+Pizza Palace,New York,159,1001,90,90.12,13.42,13.67,8/26/2023,8/16/2023,-10,Shipped
+Burger Town,Los Angeles,160,1083,90,51.01,19.57,36.67,8/2/2023,8/13/2023,11,Cancelled
+Pizza Palace,New York,161,1091,48,65.81,24.14,43.07,8/24/2023,8/9/2023,-15,Shipped
+Sushi World,San Francisco,162,1059,85,34.96,27.84,41.85,8/15/2023,8/20/2023,5,Shipped
+Taco Land,Houston,163,1070,39,26.93,15.91,21.06,8/18/2023,8/5/2023,-13,Shipped
+Pizza Palace,New York,164,1043,100,51.73,10.17,34.07,8/4/2023,8/26/2023,22,Shipped
+Pizza Palace,New York,165,1007,33,41.8,32.48,11.84,8/13/2023,8/28/2023,15,Shipped
+Burger Town,Los Angeles,166,1046,94,62.53,17.99,16.07,8/3/2023,8/5/2023,2,Shipped
+Burger Town,Los Angeles,167,1034,23,17,31.16,45.02,8/18/2023,8/10/2023,-8,Shipped
+Sushi World,San Francisco,168,1077,10,97.7,11.95,2.62,8/10/2023,8/20/2023,10,Pending
+Taco Land,Houston,169,1080,69,98.76,26.65,6.1,8/27/2023,8/11/2023,-16,Shipped
+Burger Town,Los Angeles,170,1035,100,72.83,28.97,11.98,8/21/2023,8/4/2023,-17,Shipped
+Pizza Palace,New York,171,1049,34,58.25,7.33,3.27,8/20/2023,8/14/2023,-6,Cancelled
+Taco Land,Houston,172,1003,52,37.86,20.15,10.71,8/28/2023,8/16/2023,-12,Pending
+Taco Land,Houston,173,1001,95,83.24,11.05,29.99,8/12/2023,8/30/2023,18,Cancelled
+Pizza Palace,New York,174,1005,10,71.63,7.85,22.23,8/19/2023,8/14/2023,-5,Cancelled
+Burger Town,Los Angeles,175,1053,19,24.64,49.55,44.85,8/7/2023,8/28/2023,21,Shipped
+Pizza Palace,New York,176,1003,58,91.98,19.51,41.24,8/23/2023,8/26/2023,3,Shipped
+Taco Land,Houston,177,1053,96,84.03,41.44,18.41,8/3/2023,8/7/2023,4,Pending
+Pasta Place,Chicago,178,1092,1,95.48,16.46,14.45,8/2/2023,8/12/2023,10,Shipped
+Pasta Place,Chicago,179,1062,69,75.31,35.67,20.23,8/22/2023,8/7/2023,-15,Shipped
+Sushi World,San Francisco,180,1017,4,65.21,39.21,30.33,8/8/2023,8/29/2023,21,Pending
+Pizza Palace,New York,181,1089,16,47.64,31.8,14.87,8/25/2023,8/5/2023,-20,Shipped
+Pizza Palace,New York,182,1043,24,93.95,26.22,31.96,8/10/2023,8/3/2023,-7,Shipped
+Sushi World,San Francisco,183,1033,80,87.95,23.53,21.65,8/3/2023,8/23/2023,20,Shipped
+Sushi World,San Francisco,184,1073,2,14.07,20.7,28.5,8/28/2023,8/22/2023,-6,Shipped
+Sushi World,San Francisco,185,1061,92,12.37,46.83,22.93,8/8/2023,8/7/2023,-1,Shipped
+Taco Land,Houston,186,1099,32,43.88,42.38,16.13,8/28/2023,8/18/2023,-10,Shipped
+Pizza Palace,New York,187,1013,91,82.95,48.43,47.53,8/4/2023,8/30/2023,26,Pending
+Taco Land,Houston,188,1094,84,98.85,10.59,38.65,8/13/2023,8/8/2023,-5,Shipped
+Sushi World,San Francisco,189,1047,24,23.54,37.89,8.73,8/9/2023,8/5/2023,-4,Shipped
+Pizza Palace,New York,190,1014,12,63.47,47.23,43.69,8/15/2023,8/14/2023,-1,Pending
+Taco Land,Houston,191,1071,50,44.28,13.16,25.4,8/21/2023,8/21/2023,0,Cancelled
+Taco Land,Houston,192,1077,35,97.29,7.99,44.94,8/27/2023,8/24/2023,-3,Pending
+Sushi World,San Francisco,193,1086,33,85.79,38.35,40.39,8/12/2023,8/7/2023,-5,Pending
+Pizza Palace,New York,194,1061,33,85.45,30.85,22.41,8/6/2023,8/7/2023,1,Shipped
+Sushi World,San Francisco,195,1039,61,52.18,42.88,3.08,8/12/2023,8/27/2023,15,Shipped
+Pizza Palace,New York,196,1084,51,47.33,11.29,14.9,8/12/2023,8/24/2023,12,Shipped
+Pasta Place,Chicago,197,1079,43,34.61,40.79,28,8/7/2023,8/14/2023,7,Shipped
+Burger Town,Los Angeles,198,1081,12,15.07,14.07,32.41,8/22/2023,8/10/2023,-12,Shipped
+Burger Town,Los Angeles,199,1052,67,87.83,12.36,14.38,8/9/2023,8/11/2023,2,Shipped
+Burger Town,Los Angeles,200,1023,65,83.16,12.39,8.69,8/23/2023,8/15/2023,-8,Pending
+Sushi World,San Francisco,201,1025,33,99.97,41.66,42.08,8/22/2023,8/25/2023,3,Shipped
+Pasta Place,Chicago,202,1088,40,99.7,34.93,49.25,8/21/2023,8/18/2023,-3,Shipped
+Pizza Palace,New York,203,1059,74,59.99,28.54,27.23,8/3/2023,8/26/2023,23,Shipped
+Taco Land,Houston,204,1040,43,79.21,21.15,10.24,8/20/2023,8/5/2023,-15,Shipped
+Pizza Palace,New York,205,1028,44,95.03,44.47,15.07,8/21/2023,8/25/2023,4,Shipped
+Taco Land,Houston,206,1014,29,86.47,22.66,2.88,8/6/2023,8/5/2023,-1,Pending
+Pizza Palace,New York,207,1044,13,32.26,41.75,45.89,8/18/2023,8/20/2023,2,Shipped
+Pasta Place,Chicago,208,1064,12,50.55,24.76,7.65,8/24/2023,8/20/2023,-4,Shipped
+Taco Land,Houston,209,1088,95,21.62,21.96,29.67,8/8/2023,8/8/2023,0,Shipped
+Sushi World,San Francisco,210,1070,46,95.86,25.82,15.15,8/6/2023,8/5/2023,-1,Pending
+Pizza Palace,New York,211,1008,2,64.56,18.56,28.6,8/15/2023,8/15/2023,0,Shipped
+Pizza Palace,New York,212,1087,35,30.58,38.64,33.27,8/13/2023,8/10/2023,-3,Shipped
+Taco Land,Houston,213,1000,87,70.45,27.62,41.83,8/9/2023,9/1/2023,23,Shipped
+Sushi World,San Francisco,214,1007,81,65.63,15.45,11.91,8/21/2023,8/26/2023,5,Shipped
+Sushi World,San Francisco,215,1087,90,42.23,45.48,2.53,8/23/2023,8/25/2023,2,Pending
+Pasta Place,Chicago,216,1062,8,20.22,22.28,8.57,8/18/2023,8/6/2023,-12,Pending
+Sushi World,San Francisco,217,1010,93,70.44,29.46,45.2,8/8/2023,8/11/2023,3,Shipped
+Sushi World,San Francisco,218,1080,26,56.83,45.79,43.95,8/22/2023,8/8/2023,-14,Pending
+Sushi World,San Francisco,219,1007,74,79.51,33.09,30.68,8/11/2023,8/5/2023,-6,Pending
+Burger Town,Los Angeles,220,1034,90,56.81,10.26,30.82,8/27/2023,8/29/2023,2,Pending
+Pasta Place,Chicago,221,1034,34,86.7,47.29,33.92,8/25/2023,8/8/2023,-17,Pending
+Pizza Palace,New York,222,1032,7,59.67,33.25,10.42,8/25/2023,8/15/2023,-10,Shipped
+Taco Land,Houston,223,1004,68,60.48,20.07,45.89,8/2/2023,8/10/2023,8,Shipped
+Pizza Palace,New York,224,1040,58,88.9,11.27,22.1,8/8/2023,8/10/2023,2,Shipped
+Pasta Place,Chicago,225,1027,75,46.31,40.73,20.39,8/27/2023,8/21/2023,-6,Pending
+Taco Land,Houston,226,1006,29,22.06,32.9,26.91,8/2/2023,8/10/2023,8,Shipped
+Pasta Place,Chicago,227,1072,36,12.59,29.01,4.25,8/26/2023,8/7/2023,-19,Pending
+Sushi World,San Francisco,228,1071,89,77.96,45.23,9.98,8/11/2023,8/30/2023,19,Pending
+Taco Land,Houston,229,1011,21,65.83,40.49,37.43,8/13/2023,8/3/2023,-10,Shipped
+Sushi World,San Francisco,230,1033,36,73.37,11.83,5.97,8/9/2023,8/13/2023,4,Pending
+Pizza Palace,New York,231,1032,10,29.17,19.03,30.95,8/3/2023,8/24/2023,21,Shipped
+Pizza Palace,New York,232,1047,73,22.27,16.18,13.78,8/7/2023,8/10/2023,3,Shipped
+Taco Land,Houston,233,1022,24,11.31,38.48,20.69,8/19/2023,8/22/2023,3,Pending
+Taco Land,Houston,234,1061,64,41.55,6.51,15.86,8/23/2023,8/19/2023,-4,Shipped
+Pasta Place,Chicago,235,1087,99,63.09,30.65,19.07,8/11/2023,8/5/2023,-6,Pending
+Pasta Place,Chicago,236,1036,49,45.3,39.31,36.51,8/7/2023,8/25/2023,18,Pending
+Sushi World,San Francisco,237,1098,99,49.37,44.45,16.26,8/21/2023,8/19/2023,-2,Shipped
+Taco Land,Houston,238,1043,36,91.37,20.39,29.19,8/16/2023,8/30/2023,14,Shipped
+Pizza Palace,New York,239,1085,82,41.34,41.96,24.85,8/13/2023,8/24/2023,11,Shipped
+Pasta Place,Chicago,240,1090,96,56.26,9.98,33.86,8/21/2023,8/9/2023,-12,Shipped
+Pasta Place,Chicago,241,1034,24,80.53,43.09,46.97,8/15/2023,8/6/2023,-9,Cancelled
+Pizza Palace,New York,242,1064,23,45.69,10.74,37.16,8/5/2023,8/13/2023,8,Shipped
+Pasta Place,Chicago,243,1098,62,65.99,22.88,12.32,8/9/2023,8/27/2023,18,Shipped
+Sushi World,San Francisco,244,1046,96,87.61,40.88,3.5,8/5/2023,8/14/2023,9,Shipped
+Taco Land,Houston,245,1077,37,95.46,11.75,14.59,8/8/2023,8/24/2023,16,Shipped
+Pizza Palace,New York,246,1002,12,23.24,15.32,30.56,8/24/2023,8/23/2023,-1,Pending
+Taco Land,Houston,247,1000,55,93.39,37.5,4.47,8/18/2023,8/17/2023,-1,Shipped
+Pasta Place,Chicago,248,1004,13,54.29,37.4,25.83,8/18/2023,9/1/2023,14,Pending
+Pasta Place,Chicago,249,1089,23,33.24,33.85,30.65,8/9/2023,8/22/2023,13,Shipped
+Pizza Palace,New York,250,1013,89,51.32,36.23,18.04,8/24/2023,8/10/2023,-14,Cancelled
+Sushi World,San Francisco,251,1026,99,98.2,29.42,39,8/19/2023,8/28/2023,9,Shipped
+Burger Town,Los Angeles,252,1008,30,54.34,16.33,7.12,8/14/2023,8/15/2023,1,Shipped
+Pizza Palace,New York,253,1078,17,39.59,20.56,5.61,8/19/2023,8/9/2023,-10,Cancelled
+Burger Town,Los Angeles,254,1014,62,67.01,13.17,36.95,8/13/2023,8/30/2023,17,Shipped
+Burger Town,Los Angeles,255,1089,84,31.61,45.88,25.78,8/12/2023,8/28/2023,16,Cancelled
+Sushi World,San Francisco,256,1041,89,16.83,31.25,35.04,8/8/2023,8/11/2023,3,Shipped
+Burger Town,Los Angeles,257,1076,86,21.6,23.04,22.87,8/5/2023,8/27/2023,22,Shipped
+Burger Town,Los Angeles,258,1050,13,21.52,25.79,13.83,8/17/2023,8/14/2023,-3,Shipped
+Sushi World,San Francisco,259,1062,59,23.67,47.63,41.32,8/16/2023,9/1/2023,16,Pending
+Burger Town,Los Angeles,260,1095,19,22.49,11.9,40.37,8/3/2023,8/10/2023,7,Shipped
+Burger Town,Los Angeles,261,1051,49,67.68,31.38,35.35,8/25/2023,8/31/2023,6,Shipped
+Burger Town,Los Angeles,262,1095,100,26.37,27.76,15.06,8/2/2023,8/15/2023,13,Shipped
+Pizza Palace,New York,263,1003,12,41.11,32.52,30.33,8/28/2023,8/29/2023,1,Shipped
+Pizza Palace,New York,264,1093,61,90.71,5.81,19.33,8/4/2023,8/9/2023,5,Shipped
+Pizza Palace,New York,265,1022,19,52.66,44.25,6.4,8/5/2023,8/24/2023,19,Pending
+Sushi World,San Francisco,266,1014,76,70.08,46.95,46.03,8/21/2023,8/16/2023,-5,Cancelled
+Pasta Place,Chicago,267,1042,9,25.51,30.43,8.57,8/6/2023,8/10/2023,4,Cancelled
+Burger Town,Los Angeles,268,1028,71,27.31,36.35,47.61,8/26/2023,8/28/2023,2,Pending
+Burger Town,Los Angeles,269,1035,28,13.68,46.51,23.41,8/22/2023,8/17/2023,-5,Shipped
+Sushi World,San Francisco,270,1012,78,25.2,36.83,10.89,8/14/2023,8/18/2023,4,Pending
+Burger Town,Los Angeles,271,1031,95,35.07,11.86,28.01,8/20/2023,8/12/2023,-8,Shipped
+Pizza Palace,New York,272,1070,52,25.93,30.93,43.9,8/3/2023,8/7/2023,4,Shipped
+Pasta Place,Chicago,273,1058,83,17.98,32.3,37.15,8/13/2023,8/11/2023,-2,Shipped
+Taco Land,Houston,274,1085,16,20.86,24.09,40.71,8/13/2023,8/10/2023,-3,Shipped
+Burger Town,Los Angeles,275,1027,69,51.47,38.14,33.62,8/20/2023,8/9/2023,-11,Pending
+Pizza Palace,New York,276,1065,99,28.57,47.05,35.23,8/15/2023,8/17/2023,2,Shipped
+Taco Land,Houston,277,1041,12,42.78,46.65,42.76,8/17/2023,8/27/2023,10,Shipped
+Pasta Place,Chicago,278,1044,25,55.31,25.29,13.98,8/9/2023,8/19/2023,10,Shipped
+Taco Land,Houston,279,1061,52,72.14,10.1,25.49,8/18/2023,8/18/2023,0,Cancelled
+Pizza Palace,New York,280,1056,85,13.54,49.32,12.62,8/28/2023,8/18/2023,-10,Shipped
+Taco Land,Houston,281,1005,100,81.95,42.75,49.41,8/1/2023,8/10/2023,9,Shipped
+Sushi World,San Francisco,282,1027,53,66.51,10.61,47.31,8/22/2023,8/6/2023,-16,Shipped
+Taco Land,Houston,283,1027,23,17.36,46.44,3.89,8/24/2023,8/6/2023,-18,Pending
+Burger Town,Los Angeles,284,1043,16,88.62,44.15,35.87,8/4/2023,8/31/2023,27,Shipped
+Burger Town,Los Angeles,285,1083,57,92.88,28.35,46.41,8/22/2023,8/24/2023,2,Shipped
+Sushi World,San Francisco,286,1029,39,15.5,31.61,10.67,8/18/2023,8/16/2023,-2,Shipped
+Pizza Palace,New York,287,1061,53,34.92,22.96,29.26,8/25/2023,8/6/2023,-19,Shipped
+Burger Town,Los Angeles,288,1074,42,82.56,7.46,45.94,8/9/2023,8/23/2023,14,Shipped
+Pasta Place,Chicago,289,1091,58,77.34,20.08,3.63,8/25/2023,8/23/2023,-2,Shipped
+Burger Town,Los Angeles,290,1088,39,26.61,41.13,35.48,8/21/2023,8/27/2023,6,Cancelled
+Burger Town,Los Angeles,291,1061,14,28.84,5.21,16.27,8/11/2023,8/20/2023,9,Shipped
+Pizza Palace,New York,292,1096,95,43.34,20.01,46.37,8/4/2023,8/26/2023,22,Shipped
+Taco Land,Houston,293,1000,5,53.61,22.92,48.61,8/10/2023,8/15/2023,5,Cancelled
+Burger Town,Los Angeles,294,1026,35,65.64,29.18,47.32,8/14/2023,8/26/2023,12,Shipped
+Sushi World,San Francisco,295,1061,87,43.2,46.39,24.76,8/6/2023,8/20/2023,14,Shipped
+Taco Land,Houston,296,1076,93,51.63,20.59,43.38,8/15/2023,8/11/2023,-4,Shipped
+Pasta Place,Chicago,297,1002,75,77.27,20.61,42.54,8/1/2023,8/26/2023,25,Shipped
+Pizza Palace,New York,298,1069,18,13.3,38.19,17.32,8/24/2023,8/24/2023,0,Cancelled
+Pasta Place,Chicago,299,1071,76,32.72,25.35,41.79,8/24/2023,8/25/2023,1,Shipped
+Taco Land,Houston,300,1026,9,74.2,15.11,3.78,8/9/2023,8/14/2023,5,Pending
