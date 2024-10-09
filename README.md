@@ -9,3 +9,18 @@ The hotel booking dataset captures key details about hotel bookings,including th
 
 # EXPLORATORY ANALYSIS OF WALMART SALES DATASET
 The analysis focuses on sales data from Walmart stores across three cities: Yangon, Naypyitaw, and Mandalay. The dataset provides insight into customer demographics, product lines, payment methods, and sales trends. The primary objectives are to understand city-wise sales performance, product line revenue contributions, payment preferences, and spending behavior based on gender. By using SQL queries and visualizations, we uncovered key trends, such as the leading product lines and cities in terms of sales, and the distribution of payment methods.
+
+# EXPLORATORY ANALYSIS OF TAXI SERVICE DATASET
+The Taxi Service Dataset offers a detailed analysis of key performance metrics such as revenue, trip volume, driver efficiency, and external factors like weather and surge pricing. By leveraging data from various operational aspects, this dashboard provides valuable insights into customer behavior, location performance, and revenue drivers.
+
+The SQL queries analyze various aspects of taxi service operations to optimize revenue growth. Key insights include:
+
+- Identifying the most profitable locations and days of the week.
+- Determining the most commonly used payment methods.
+- Highlighting top revenue-generating drivers and frequent customers.
+- Assessing the impact of weather and surge pricing on revenue.
+- Analyzing average trip distances and revenues by location.
+- Exploring revenue trends over time, peak trip hours, and traffic at key pickup and drop-off locations.
+- Mapping revenue distribution based on geographical coordinates.
+- These insights support decision-making for improving efficiency, targeting high-revenue areas, and optimizing driver and - 
+  fleet management.
