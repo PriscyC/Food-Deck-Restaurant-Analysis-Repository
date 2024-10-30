@@ -2,7 +2,25 @@ This Repository Showcases the projects I carried out in the course of my interns
 These projects include a Restaurant analysis and Hotel Booking analysis, Walmart Sales Analysis, Taxi Service Analysis with SQL. 
 
 # EXPLORATORY ANALYSIS OF THE RESTAURANT DATASET
-The restaurant analysis aims to provide actionable insights into the  operational efficiency, customer behavior, and financial performance of their partnered restaurants. Particular attention is given to identifying the top-performing restaurants in terms of revenue generation, as well as those with higher occurrences of canceled orders. These project analysis was done with SQL. 
+This report presents a comprehensive analysis of the order data from Food Deck, focusing on key performance metrics related to revenue, profit, and order status across various restaurants. 
+The analysis aims to provide actionable insights into the  operational efficiency, customer behavior, and financial performance of our partnered restaurants. Particular attention is given to identifying the top-performing restaurants in terms of revenue generation, as well as those with higher occurrences of canceled orders. 
+This comparison enables us to pinpoint areas of success and potential improvement, helping to optimize restaurant operations and enhance customer satisfaction. 
+The insights derived from this analysis will serve as a valuable resource for strategic decision-making, enabling us to refine our business practices, improve order management, and ultimately drive growth in the competitive marketplace. These project analysis was done with SQL. 
+
+1. REQUIREMENT GATHERING
+The dataset has the following dimensions;
+Order Dataset which has 200 rows and 11 columns
+Restaurant Dataset  which has 5 rows and 3 columns
+
+2. DATA CLEANING
+- Data was checked to ascertain the data quality. Checks for duplicates were done and checks for  blanks. The data was ascertained for completeness and no inconsistencies 
+  were found. 
+
+3. DATA ANALYSIS 
+- One (1) Visualization Dashboard was created showing the Total Revenue of Restaurants across different cities as of August 2023 
+
+ 4. INSIGHTS AND RECOMMENDATIONS
+- From the visualized dashboard, data driven decisions and insights were drafted
 
 # Food-Deck Restuarants Performance Dashboard
 This report presents a comprehensive analysis of the order data from Food Deck,focusing on key performance metrics related to revenue, profit, and order status across various restaurants.The insights derived from this analysis will serve as a valuable resource for strategic decision-making, enabling us to refine our business practices, improve order management, and ultimately drive growth in the competitive marketplace.
